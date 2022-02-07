@@ -1,1 +1,1 @@
-# Program for :MD4,Bloom,GHOST-89
+# Program for :MD4,Bloom(key protocol),GHOST-89
